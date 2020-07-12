@@ -1,0 +1,82 @@
+                                __               _            
+                               [  |  _          (_)           
+ ,--.   _ .--.   _ .--.  .---.  | | / ]  .--.   __    _   __  
+`'_\ : [ `.-. | [ `.-. |/ /__\\ | '' <  ( (`\] [  |  [ \ [  ] 
+// | |, | | | |  | | | || \__., | |`\ \  `'.'.  | |   \ '/ /  
+\'-;__/[___||__][___||__]'.__.'[__|  \_][\__) )[___][\_:  /   
+                                                     \__.'    
+
+email to : abuidreesadam@gmail.com
+
+Hey!
+
+So I got the site to a point where I'm happy with the look, 
+let me know if there's any changes you'd like me to make :D
+
+/*******
+           Start of Requirements
+                                   *******/
+				   
+
+** Multiple Page Requirements **
+
+--> caption for Roses Co.
+--> socials (social media links if any exist)
+--> email address
+
+** Home Page Requirements ** 
+
+--> top left of the page, "Services", let me know if you'd
+like to change it
+--> text under "Welcome to Roses Co."
+--> any items under the second roses picture 
+--> if you want to link to something specific (an article
+perhaps), let me know so I can add it by those two template
+items at the bottom of the page with the learn more buttons
+
+** Tuition and Coffee Page Requirements ** 
+
+--> perhaps we should change the header/title of the page by
+the first image on top?
+--> if you want to use text under the subheading templates,
+type them out and send it to me and I'll add it in 
+--> specify your desired fields in the "Contact Us" form,
+eg. Name, Email, Grade, Subjects, Leave a message
+--> specify the colour of the send message button and the 
+colour you'd like it to change to when you hover over it
+with a mouse cursor
+
+** Tuition Page Requirements ** 
+
+--> "tuition services" is a unordered list without bullet 
+points, I can add bullet points if you prefer
+--> text for tuition services
+
+** Coffee Page Requirements **
+
+--> specify the text to be placed by the "Coffee List" 
+table
+--> specify the items to be displayed in the table itself
+(please note, I can remove a column, add a column or do 
+anything you need)
+
+/*******
+           End of Requirements
+                                 *******/
+
+If you'd like to choose your own pictures, I recommend a site 
+such as unsplash.com which contains free and royalty-free 
+images. You can download them and send them to me via email.
+
+For any other changes, like I said, just let me know and I'll
+hop on it.
+
+                                __               _            
+                               [  |  _          (_)           
+ ,--.   _ .--.   _ .--.  .---.  | | / ]  .--.   __    _   __  
+`'_\ : [ `.-. | [ `.-. |/ /__\\ | '' <  ( (`\] [  |  [ \ [  ] 
+// | |, | | | |  | | | || \__., | |`\ \  `'.'.  | |   \ '/ /  
+\'-;__/[___||__][___||__]'.__.'[__|  \_][\__) )[___][\_:  /   
+                                                     \__.'    
+
+email to : abuidreesadam@gmail.com
